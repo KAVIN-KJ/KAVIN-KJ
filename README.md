@@ -62,4 +62,4 @@ Fun fact : I used to jump linux distros 🐧
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+> # Working for my glorious purpose
