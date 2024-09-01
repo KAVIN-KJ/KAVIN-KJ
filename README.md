@@ -1,4 +1,4 @@
-### <div align="center">I'm Kavin Raja👋🏻 an Electronics engineer with a great passion towards Programming and Developing applications ✨</div>  
+### <div align="center">Hi! I'm Kavin Raja, and I have a great passion for programming and developing applications. ✨</div>  
   
 
 Fun fact : I used to jump linux distros 🐧  
