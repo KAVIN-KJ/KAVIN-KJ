@@ -22,4 +22,4 @@ Fun fact : I used to jump linux distros 🐧
 
 <br/>  
 
-> # Working for my glorious purpose
+> # Working for my glorious purpose 🌟
