@@ -2,22 +2,29 @@
   
 
 Fun fact : I used to jump linux distros 🐧  
-  
+
+### currently an <i> openSUSE </i> User 
+<img src=https://github.com/user-attachments/assets/e32e1e4e-759e-4b23-b5a2-b03c4ff501f4 alt=github style="margin-bottom: 5px; width:100px;" />
+
 
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/KAVIN-KJ" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://leetcode.com/u/K_J_K_R/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%231E77B5.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow&color=black alt=linkedin  />
 </a>
 <a href="https://instagram.com/k_j_k_r" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram \/>
 </a>
 <a href="https://linkedin.com/in/kavin-raja-k-j-53773b256/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black alt=linkedin  />
+</a>  
+  <a href="mailto:kavinkj2004@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=blue&color=black alt=linkedin  />
 </a>  
 </div>  
+
   
 
 <br/>  
