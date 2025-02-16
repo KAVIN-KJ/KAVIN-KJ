@@ -3,8 +3,9 @@
 
 Fun fact : I used to jump linux distros 🐧
 
-### currently an <i> openSUSE </i> User
-<img src=https://github.com/user-attachments/assets/e32e1e4e-759e-4b23-b5a2-b03c4ff501f4 alt=github style="margin-bottom: 5px; width:100px;" />
+### currently a <i> FEDORA </i> User
+<img src=https://github.com/user-attachments/assets/a43fc8c5-2c54-4341-a743-34f4f1c904bf
+ alt=github style="margin-bottom: 5px; width:100px;" />
 
 
 
