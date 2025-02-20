@@ -23,7 +23,7 @@ alt="github" style="margin-bottom: 5px; width:100px;" />
 <a href="https://linkedin.com/in/kavin-raja-k-j-53773b256/" target="_blank">  
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="LinkedIn"/>  
 </a>  
-<a href="mailto:kavinkj2004@gmail.com" target="_blank">  
+<a href="mailto:kavinkj2004@gmail.com" target="_blank" target="_blank">  
 <img src="https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=blue&color=black" alt="Gmail"/>  
 </a>  
 </div>  
