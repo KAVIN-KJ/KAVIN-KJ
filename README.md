@@ -3,8 +3,8 @@
 
 Fun fact: I used to jump Linux distros 🐧  
 
-### Currently a <i> FEDORA </i> User  
-<img src="https://github.com/user-attachments/assets/a43fc8c5-2c54-4341-a743-34f4f1c904bf"  
+### Currently a <i> MANJARO LINUX </i> User  
+<img src="https://github.com/user-attachments/assets/b3df3188-39f8-4af2-ba6e-340186e7c1eb"
 alt="github" style="margin-bottom: 5px; width:100px;" />  
 
 ---
