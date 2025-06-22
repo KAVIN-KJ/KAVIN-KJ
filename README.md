@@ -20,7 +20,7 @@ alt="github" style="margin-bottom: 5px; width:100px;" />
 <a href="https://instagram.com/k_j_k_r" target="_blank">  
 <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>  
 </a>  
-<a href="https://linkedin.com/in/kavin-raja-k-j-53773b256/" target="_blank">  
+<a href="https://linkedin.com/in/kjkr/" target="_blank">  
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="LinkedIn"/>  
 </a>  
 <a href="mailto:kavinkj2004@gmail.com" target="_blank" target="_blank">  
